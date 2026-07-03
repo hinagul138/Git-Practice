@@ -1,0 +1,7 @@
+print("Helo!")
+print("I am Hina Gul")
+print("I am 20 year old")
+print("I live in pakistan")
+print("I am learning Python.")
+print("My goal is to become a Cybersecurity profession")
+print("Thank you!")
